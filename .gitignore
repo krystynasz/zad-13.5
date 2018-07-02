@@ -70,4 +70,4 @@ typings/
 .vuepress/dist
 
 # Serverless directories
-.serverless
+.server lessnode_modules/
